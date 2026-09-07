@@ -1,0 +1,8 @@
+{
+  "name": "Cricket Vision",
+  "description": "AI Auto Umpire with real-time bowling velocity speed radar overlay, video visualizer, ball tracking, crease overstep detection, LBW heuristics, and bilingual announcer.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
